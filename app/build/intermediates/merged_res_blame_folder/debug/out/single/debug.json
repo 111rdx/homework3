@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/drawable_lion.jpg.flat",
+        "source": "com.example.experiment3.app-main-34:/drawable/lion.jpg"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/drawable_dog.jpg.flat",
+        "source": "com.example.experiment3.app-main-34:/drawable/dog.jpg"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/menu_menu_context_action.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/menu/menu_context_action.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_activity_list_view.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/activity_list_view.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_item_recycler_animal.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/item_recycler_animal.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/drawable_monkey.jpg.flat",
+        "source": "com.example.experiment3.app-main-34:/drawable/monkey.jpg"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/menu_menu_main.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_item_simple.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/item_simple.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_activity_recycler_view.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/activity_recycler_view.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_dialog_custom.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/dialog_custom.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/drawable_elephant.jpg.flat",
+        "source": "com.example.experiment3.app-main-34:/drawable/elephant.jpg"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/drawable_cat.png.flat",
+        "source": "com.example.experiment3.app-main-34:/drawable/cat.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/drawable_tiger.jpg.flat",
+        "source": "com.example.experiment3.app-main-34:/drawable/tiger.jpg"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_activity_alert_dialog.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/activity_alert_dialog.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_item_animal.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/item_animal.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_activity_action_mode.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/activity_action_mode.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/layout_activity_menu.xml.flat",
+        "source": "com.example.experiment3.app-main-34:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.experiment3.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.experiment3.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    }
+]

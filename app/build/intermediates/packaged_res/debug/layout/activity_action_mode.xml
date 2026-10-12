@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="长按列表项进入ActionMode模式"
+        android:padding="12dp"
+        android:background="#FFF3E0"
+        android:textColor="#E65100"
+        android:textSize="14sp"
+        android:gravity="center" />
+
+    <ListView
+        android:id="@+id/listViewActionMode"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#E0E0E0"
+        android:dividerHeight="1dp" />
+
+</LinearLayout>
